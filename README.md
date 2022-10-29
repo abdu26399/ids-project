@@ -1,2 +1,3 @@
-# ids-project
-Intrusion detection system project using ML for the WiCyS Fall 2022 term project
+# Intrusion Detection System
+Intrusion detection system project using Machine Learning for the WiCyS Fall 2022 Term project
+
